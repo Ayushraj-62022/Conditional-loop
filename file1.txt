@@ -1,0 +1,20 @@
+Q What are conditional statement ? Explain conditional statements with syntax and examples .
+
+Ans = conditional statement and bi-conditional statement. These statements are formed by combining two statements, which are called compound 
+statements. Suppose a statement is- if it rains, then we don’t play. This is a combination of two statements. These types of statements are mainly
+ used in computer programming languages such as c, c++, etc. Let us learn more here with examples.
+
+ A conditional statement is represented in the form of “if…then”. Let p and q are the two statements, then statements p and q can be written as 
+ per different conditions, such as;
+
+ f a > 0 is a positive number, then is a = 10 correct or not? 
+
+Solution: Given, a > 0 and is a positive number
+
+And it is given a = 10
+
+So the first statement a > 0 is correct because any number greater than 0 is a positive number. But a = 10 is not a correct statement because it 
+can be any number greater than 0.
+if … else statements 
+if-else is the first kind of control statement . In this, the operations are performed according to some specified condition. The statements
+ inside the body of the if block get executed if and only if the given condition is true.
